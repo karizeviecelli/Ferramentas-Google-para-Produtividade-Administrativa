@@ -81,9 +81,6 @@ Documento Word com **19 páginas**, formatado para impressão em A4. Contém fic
 │  MÓDULO X · TEMA DA FICHA               │
 │  @karizeviecelli · 2026 · PM            │
 ├─────────────────────────────────────────┤
-│  Nome: ___________  Data: ___________   │
-│  Matrícula: _______  Módulo: _________  │
-├─────────────────────────────────────────┤
 │  🎯 Objetivos da atividade              │
 │  Exercício 1 (Prático)                  │
 │  Exercício 2 (Múltipla Escolha)         │
@@ -108,31 +105,6 @@ Documento Word com **19 páginas**, formatado para impressão em A4. Contém fic
 | **5.2** | Uso Ético do Gemini | V/F, prático, registro de atividade |
 | **Final** | Avaliação Final do Curso | 5 questões cobrindo todos os módulos + gabarito |
 
-**Recursos de formatação:**
-- Cabeçalho com nome do curso e autora em todas as páginas
-- Rodapé com `@karizeviecelli · 2026 · Pág. X`
-- Gabaritos em destaque verde para fácil localização
-- Caixas "Para Refletir" para discussão em grupo
-- Tabelas prontas para preenchimento
-
----
-
-## 🗓️ Sugestão de Uso em Sala
-
-```
-MANHÃ (4h)
-├── 08h00 - 08h30 → Abertura com curso_google_tools.pptx (visão geral)
-├── 08h30 - 09h30 → Módulo 1 (Drive) — slides + Fichas 1.1 e 1.2
-├── 09h30 - 09h45 → Intervalo
-└── 09h45 - 12h00 → Módulo 2 (Docs + Planilhas) — slides + Fichas 2.1 e 2.2
-
-TARDE (4h)
-├── 13h00 - 13h50 → Módulo 3 (Keep, Tasks, Fotos) — slides + Fichas 3.1 e 3.2
-├── 13h50 - 14h50 → Módulo 4 (Gestão de Projetos) — slides + Ficha 4.1
-├── 14h50 - 15h05 → Intervalo
-├── 15h05 - 16h05 → Módulo 5 (Gemini) — slides + Fichas 5.1 e 5.2
-└── 16h05 - 17h00 → Avaliação Final + Encerramento
-```
 
 ---
 
@@ -168,7 +140,7 @@ Recomenda-se imprimir por módulo e distribuir antes de cada bloco.
 ### 4. Para adaptar o material
 Todos os arquivos são editáveis. Para personalizar com o nome da sua unidade:
 - No PPTX: edite os rodapés e textos de identificação
-- No DOCX: localize e substitua `Polícia Militar` e `@karizeviecelli` pelo nome desejado
+
 
 ---
 
